@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .heading {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  border: 2px solid white;
+}
+.logo {
+  width: 200px;
+}
+.nav-cont > ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.nav-cont > ul > li {
+  padding: 10px;
+  margin: 10px;
+}
+
+.res-card {
+  width: 250px;
+  padding: 3px;
+  margin: 5px;
+}
+
+.res-card:hover {
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.res-logo {
+  width: 100%;
+}
+
+.res-cont {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.filter-btn:hover {
+  cursor: pointer;
+}
+
+.shimmer-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.shimmer-card {
+  width: 200px;
+  height: 400px;
+  background-color: #b1b1b1;
+  margin: 20px;
+}
+
+.copyright {
+  background-color: #8b8b8b;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.copyright > ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.copyright > ul > li {
+  padding: 5px;
+}
+
+.login-btn {
+  padding: 5px;
+  border: 1px solid hsla(0, 0%, 0%, 0.512);
+  width: 100px;
+}
+.login-btn:hover {
+  cursor: pointer;
+}
+
+.input-cont {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+  padding: 5px;
+}
+.text-link {
+  color: inherit;
+  text-decoration: inherit;
+}
+.userCard {
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid black;
+} */
